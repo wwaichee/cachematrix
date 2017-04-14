@@ -1,8 +1,8 @@
 ##The first function, makeCacheMatrix creates a special "matrix", which is really a list containing a function to
-##1.set the value of the matrix
-##2.get the value of the matrix
-##3.set the inverse matrix of the matrix
-##4.get the inverse matrix of the matrix
+## - set the value of the matrix
+## - get the value of the matrix
+## - set the inverse matrix of the matrix
+## - get the inverse matrix of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
       
